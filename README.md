@@ -1,4 +1,4 @@
-# InternBridge_Pvt_Ltd_EventPlatform
+# InternBridge_Pvt_Ltd_UIUX_EventPlatform
 
 Project Link:- https://www.figma.com/proto/jcCW1Izt4WFOMF8pAZE0Wi/Major-Project(Runal)?page-id=0%3A1&node-id=1-2&viewport=-131%2C282%2C0.54&t=SCGfynWptkyukY4O-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=1%3A2
 
