@@ -1,6 +1,6 @@
 # InternBridge_Pvt_Ltd_UIUX_EventPlatform
 
-Project Link:- https://www.figma.com/proto/jcCW1Izt4WFOMF8pAZE0Wi/Major-Project(Runal)?page-id=0%3A1&node-id=1-2&viewport=-131%2C282%2C0.54&t=SCGfynWptkyukY4O-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=1%3A2
+Project Link:- https://www.figma.com/proto/HlMD5p6hiTsLEKUCSdbB0O/Event-App?page-id=0%3A1&node-id=1-1250&viewport=-1873%2C-950%2C0.29&t=dRdtAHasZtmYY9e7-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=1%3A1250
 
 InternBridge_Pvt_Ltd
 
@@ -31,12 +31,15 @@ To use the platform, visit our GitHub Pages URL or the provided deployment link.
 
 Screenshots
 Here are some screenshots of the project:
-![image](https://github.com/Runal-Parlewar/InternBridge_Pvt_Ltd_EventPlatform/assets/174642736/373012ed-4a06-4551-8f3c-18a4f83b254f)
-![image](https://github.com/Runal-Parlewar/InternBridge_Pvt_Ltd_EventPlatform/assets/174642736/1644d647-a9c3-47ce-b535-d5f9878160cb)
-![image](https://github.com/Runal-Parlewar/InternBridge_Pvt_Ltd_EventPlatform/assets/174642736/73bd9656-caf6-4764-9848-f9a25d966abc)
-![image](https://github.com/Runal-Parlewar/InternBridge_Pvt_Ltd_EventPlatform/assets/174642736/659180f3-148c-45eb-a18c-d134b0fddec5)
-![image](https://github.com/Runal-Parlewar/InternBridge_Pvt_Ltd_EventPlatform/assets/174642736/7f0c6113-862c-4305-852e-a623e5d3821b)
-![image](https://github.com/Runal-Parlewar/InternBridge_Pvt_Ltd_EventPlatform/assets/174642736/f72b24ae-37dd-4a02-8094-908a0f31c289)
+![image](https://github.com/Runal-Parlewar/InternBridge_Pvt_Ltd_EventPlatform/assets/174642736/20c3d415-f49a-4197-9fe5-966ac9a5cb1d)
+![image](https://github.com/Runal-Parlewar/InternBridge_Pvt_Ltd_EventPlatform/assets/174642736/a6557f73-d0b1-43e4-9ed6-9e09a10000f0)
+![image](https://github.com/Runal-Parlewar/InternBridge_Pvt_Ltd_EventPlatform/assets/174642736/d0a46ec2-c7f6-4bbb-90fb-45532e2ade39)
+![image](https://github.com/Runal-Parlewar/InternBridge_Pvt_Ltd_EventPlatform/assets/174642736/a7d2a920-9a78-402b-bdae-2051445f867d)
+![image](https://github.com/Runal-Parlewar/InternBridge_Pvt_Ltd_EventPlatform/assets/174642736/18b49e28-262f-42db-a637-e4239f71faa6)
+![image](https://github.com/Runal-Parlewar/InternBridge_Pvt_Ltd_EventPlatform/assets/174642736/b4e38da2-5973-47ea-b1d2-47c6747657c1)
+![image](https://github.com/Runal-Parlewar/InternBridge_Pvt_Ltd_EventPlatform/assets/174642736/9e949bcd-ee43-4fb5-bd9c-69e4f0c990ca)
+![image](https://github.com/Runal-Parlewar/InternBridge_Pvt_Ltd_EventPlatform/assets/174642736/f1f64a24-244f-4e48-88b0-c53cc9ab326f)
+
 
 License
 This project is licensed under the MIT License. See the LICENSE file for details.
